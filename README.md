@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64fc217b-8593-47cb-97e3-19b83b7d9eeb" />
+
+
 # Research Assistant
 
 Research Assistant is a Spring Boot backend with a companion Chrome extension for summarizing selected webpage text with Google's Gemini API. The extension opens as a browser side panel, sends selected text to the local backend, and displays the AI-generated summary alongside a small notes area.
