@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64fc217b-8593-47cb-97e3-19b83b7d9eeb" />
+<img width="1913" height="1003" alt="image" src="https://github.com/user-attachments/assets/bd5f042a-2cdc-48e1-a81e-bdf6f4ac1406" />
+
 
 
 # Research Assistant
